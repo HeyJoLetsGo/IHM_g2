@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=CanvasTortue()
+comment0.text=\n\ Constructeur\ private,\ pour\ empecher\ l'instanciation\ de\ la\ classe\n\ Toutes\ les\ fonctions\ sont\ statiques\ \!\n\n
+comment1.params=
+comment1.target=void\ reset()
+comment1.text=\n\ Efface\ le\ Canvas\n
+comment2.params=x\ y
+comment2.target=void\ tortueNord(int,\ int)
+comment2.text=\n\ Dessine\ une\ tortue\ orientee\ vers\ le\ nord\n\n\ @param\ \ x,y\ \ position\ de\ la\ tortue\n
+comment3.params=x\ y
+comment3.target=void\ tortueSud(int,\ int)
+comment3.text=\n\ Dessine\ une\ tortue\ orientee\ vers\ le\ sud\n\n\ @param\ \ x,y\ \ position\ de\ la\ tortue\n
+comment4.params=x\ y
+comment4.target=void\ tortueEst(int,\ int)
+comment4.text=\n\ Dessine\ une\ tortue\ orientee\ vers\ l'est\n\n\ @param\ \ x,y\ \ position\ de\ la\ tortue\n
+comment5.params=x\ y
+comment5.target=void\ tortueOuest(int,\ int)
+comment5.text=\n\ Dessine\ une\ tortue\ orientee\ vers\ l'ouest\n\n\ @param\ \ x,y\ \ position\ de\ la\ tortue\n
+comment6.params=x1\ y1\ color
+comment6.target=void\ ecrisVertical(int,\ int,\ java.lang.String)
+comment6.text=\n\ Trace\ un\ trait\ noir\ vers\ le\ sud\n\n\ @param\ \ x1,y1\ \ \ position\ du\ point\ de\ depart,\ en\ cases\n
+comment7.params=x1\ y1\ color
+comment7.target=void\ ecrisHorizontal(int,\ int,\ java.lang.String)
+comment7.text=\n\ Trace\ un\ trait\ noir\ vers\ l'est\n\n\ @param\ \ x1,y1\ \ \ position\ du\ point\ de\ depart,\ en\ cases\n
+numComments=8

@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=TortueRapide()
+comment0.text=\n\ Constructeur,\ initialisation\ \u00E0\ 1\ de\ la\ vitesse\n
+comment1.params=
+comment1.target=void\ avancer()
+comment1.text=\n\ Red\u00E9finition\ de\ la\ m\u00E9thode\ avancer,\ pour\ tenir\ compte\ de\ la\ vitesse\n
+comment2.params=v
+comment2.target=void\ setVitesse(int)
+comment2.text=\n\ Changer\ la\ vitesse\n\n\ @param\ \ v\ \ \ nouvelle\ vitesse\n
+comment3.params=
+comment3.target=int\ getVitesse()
+comment3.text=\n\ Accesseur\ de\ la\ vitesse\n\n\ @return\ la\ vitesse\ actuelle\ de\ la\ tortue\n
+comment4.params=
+comment4.target=void\ accelerer()
+comment4.text=\n\ M\u00E9thode\ accelerer\ \:\ incr\u00E9mente\ de\ 1\ la\ vitesse\ de\ la\ tortue\n\n
+comment5.params=
+comment5.target=void\ ralentir()
+comment5.text=\n\ M\u00E9thode\ ralentir\ \:\ d\u00E9cr\u00E9mente\ de\ 1\ la\ vitesse\ de\ la\ tortue\n\n
+numComments=6

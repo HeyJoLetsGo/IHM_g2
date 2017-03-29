@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=TortueCouleur()
+comment0.text=\n\ Constructeur\ par\ d\u00E9faut,\ la\ tortue\ \u00E9crit\ en\ noir\n\n
+comment1.params=coul
+comment1.target=TortueCouleur(java.lang.String)
+comment1.text=\n\ Constructeur\ permettant\ de\ sp\u00E9cifier\ la\ couleur\n\n\ @param\ coul\ la\ couleur\ demand\u00E9e\n
+comment2.params=coul
+comment2.target=void\ setCouleur(java.lang.String)
+comment2.text=\n\ M\u00E9thode\ setCouleur\ \:\ change\ la\ couleur\ de\ la\ tortue\n\n\ @param\ coul\ la\ couleur\ demand\u00E9e\n
+comment3.params=
+comment3.target=java.lang.String\ getCouleur()
+comment3.text=\n\ Accesseur\ de\ la\ couleur\n\n\ @return\ la\ couleur\ de\ la\ tortue\n
+comment4.params=coul
+comment4.target=java.lang.String\ rendCouleur(java.lang.String)
+comment4.text=\n\ M\u00E9thode\ rendCouleur\ \:\ permet\ de\ v\u00E9rifier\ que\ la\ couleur\ demand\u00E9e\ est\ correcte\n\ rend\ "black"\ sinon\n\n\ @param\ coul\ la\ couleur\ demand\u00E9e\n\ @return\ la\ couleur\ v\u00E9rifi\u00E9e\n
+numComments=5
